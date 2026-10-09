@@ -1,0 +1,78 @@
+Jonathan E. James
+901 Park Ave SW Apt 302, Albuquerque, NM 87102
+417-621-8367  |  jonathan.e.james@outlook.com
+
+PROFESSIONAL SUMMARY
+
+Technical professional with 14+ years of experience in calibration, laboratory operations,
+and technical documentation within regulated manufacturing environments. Experienced with
+ISO 9000 quality management systems, IPC-620 rework standards, and document control
+procedures. Seeking a full-time remote or NJ-based technical documentation role in
+semiconductor, medical device, or high-tech manufacturing. Previously held DOE L
+clearance (equivalent to DoD Secret); current status inactive, readily reinstatable.
+
+RELEVANT TECHNICAL EXPERIENCE
+
+2024–Present    Field Service Engineer, Lam Research (via WGNSTAR)
+                Rio Rancho, NM
+- Troubleshoot and sustain Intel wafer manufacturing tools via data analysis
+  and remote diagnostic support; maintain work order and technical documentation
+  within a controlled semiconductor manufacturing environment
+- Interface daily with Intel engineering and QA personnel on corrective actions,
+  travel documentation, and specification flow-downs
+
+2020–2021    Electrical & Mechanical Calibrator – QA, Eagle Picher Technologies
+             Joplin, MO
+- Performed calibration cycles and verification for dozens of instruments, hand tools,
+  and complete systems (mechanical, electrical, electrochemical)
+- Maintained calibration records, certificate generation, and drift tracking
+  using historical data; supported audit readiness in a QA-governed environment
+
+2021–2022    Engineering Technician, Ducommun Inc.
+             Joplin, MO
+- Authored and maintained technical documentation and operating procedures
+  supporting project requirements under a controlled QMS
+- Collected and organized data for corrective action items; supported
+  revision control and document version management
+
+2015–2020    Laboratory Test Technician (Medical & Defense), Eagle Picher Technologies
+             Joplin, MO
+- Performed cycle, capacity, voltage, and environmental testing on
+  mission-critical energy storage devices; authored test reports and
+  quality records
+- Managed scheduling and task coordination for a multi-technician lab team
+
+2022–2023    Materials Lab Intern, Sandia National Laboratories (Div. 1800)
+             Albuquerque, NM
+- Managed technical documentation and data analysis for electrochemical
+  device research in a DOE-controlled laboratory environment
+
+EDUCATION
+
+Pursuing BS, Nuclear Engineering — University of New Mexico (GPA 3.7)
+1+ year, EET — DeVry University (2018–2019)
+High School Diploma — College Heights Christian School (2010)
+
+KEY SKILLS
+
+- Technical documentation and operating procedure authoring (QMS / ISO 9000)
+- Calibration cycle management and verification (electrical, mechanical, electrochemical)
+- Revision control, document maintenance, and audit support
+- IPC-620 rework standard (certified operator)
+- Process flow optimization and 6S Lean implementation
+- Data interpretation, trend analysis, and performance drift tracking
+- Remote troubleshooting; direct SME liaison in multi-departmental environments
+- DOE L clearance (equivalent to DoD Secret) — previously held; currently
+  inactive, readily reinstatable
+
+AVAILABILITY
+
+Available immediately. Remote preferred; open to hybrid or on-site in the
+Princeton / Central NJ area. Willing to relocate to New Jersey within 12 months.
+
+REFERENCES
+
+Nathan Hahn    R&D Scientist, Sandia National Labs    972-693-7977
+Jim Goldin     Engineering Manager, Ducommun           417-392-0152
+Mark Robertson Engineering Manager, Eagle Picher       417-396-8613
+Maxwell Murphy Lab Test Manager, Eagle Picher          417-825-6146

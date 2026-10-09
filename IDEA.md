@@ -1,0 +1,1 @@
+Jonathan is wanting to find a job in New Jersey to be closer to his new girlfriend, Amelia. Amelia lives in Forked River, NJ. Jonathan is interested in living as close to Amelia as possible while still working in a job he enjoys and pays him well enough to live in a rent-by-owner studio, 1 bedroom, or 2 bedroom place that costs 30% or less of his income.

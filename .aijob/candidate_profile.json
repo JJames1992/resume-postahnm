@@ -1,0 +1,215 @@
+{
+  "name": "Jonathan E. James",
+  "email": "jonathan.e.james@outlook.com",
+  "phone": "417-621-8367",
+  "location": "10429 Mountain Rd NE, Albuquerque, NM 87112",
+  "linkedin": "",
+  "github": "",
+  "website": "",
+  "employment_status": "actively_looking",
+  "cv_language": "English",
+  "languages": [
+    "English"
+  ],
+  "work_authorization": "US Citizen",
+  "available_start": "Immediately",
+  "education": [
+    {
+      "degree": "Nuclear Engineering, BS (In Process) \u2014 ~2 semesters remaining",
+      "institution": "University of New Mexico",
+      "location": "Albuquerque, NM",
+      "graduation": "Spring 2024 \u2192 estimated",
+      "gpa": "3.7",
+      "notes": "No degree completed yet."
+    },
+    {
+      "degree": "Electrical Engineering Technology (1 year completed)",
+      "institution": "DeVry University",
+      "location": "Kansas City, MO",
+      "graduation": "2019",
+      "notes": "Several semesters, no degree."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Field Service Engineer",
+      "company": "WGNSTAR @ Intel Fx11",
+      "location": "Rio Rancho, NM",
+      "start": "2024",
+      "end": "2025",
+      "current": true,
+      "bullets": [
+        "Sustained Intel wafer manufacturing tools and equipment.",
+        "Diagnosed equipment malfunctions using data analysis and remote troubleshooting.",
+        "Provided technical customer service and client interface support."
+      ]
+    },
+    {
+      "title": "Nuclear Engineering Intern",
+      "company": "Verus Research",
+      "location": "Albuquerque, NM",
+      "start": "2023",
+      "end": "2024",
+      "current": false,
+      "bullets": [
+        "Developed 1D calculations for radiation shielding.",
+        "Conducted and interpreted MCNP simulations.",
+        "Performed independent research and analysis."
+      ]
+    },
+    {
+      "title": "Teaching Assistant",
+      "company": "University of New Mexico Chemistry Dept.",
+      "location": "Albuquerque, NM",
+      "start": "2023",
+      "end": "2023",
+      "current": false,
+      "bullets": [
+        "Instructed Chemistry 1 laboratory courses.",
+        "Developed course materials and mentored students."
+      ]
+    },
+    {
+      "title": "Materials Lab Intern",
+      "company": "Sandia National Labs, Div. 1800",
+      "location": "Albuquerque, NM",
+      "start": "2022",
+      "end": "2023",
+      "current": false,
+      "bullets": [
+        "Built electrochemical devices and conducted molar solution calculations.",
+        "Used glovebox and managed technical documentation and data analysis."
+      ]
+    },
+    {
+      "title": "Engineering Technician",
+      "company": "Ducommun Inc.",
+      "location": "Joplin, MO",
+      "start": "2021",
+      "end": "2022",
+      "current": false,
+      "bullets": [
+        "Wrote technical documentation and operating procedures.",
+        "Performed data analysis for process optimization."
+      ]
+    },
+    {
+      "title": "Electrical Mechanical Calibrator - QA",
+      "company": "Eagle Picher Technologies",
+      "location": "Joplin, MO",
+      "start": "2020",
+      "end": "2021",
+      "current": false,
+      "bullets": [
+        "Monitored calibration cycles and performed calibration verification.",
+        "Tracked equipment performance drift using historical data."
+      ]
+    },
+    {
+      "title": "Laboratory Test Technician, Medical & Defense",
+      "company": "Eagle Picher Technologies",
+      "location": "Joplin, MO",
+      "start": "2015",
+      "end": "2020",
+      "current": false,
+      "bullets": [
+        "Performed cycle, capacity, and environmental testing on energy storage devices.",
+        "Organized scheduling and coordinated testing activities."
+      ]
+    }
+  ],
+  "skills": {
+    "primary": [
+      "Data Analysis / Interpretation",
+      "Laboratory Operations / Lab Testing",
+      "Electrolytic Processes",
+      "Glovebox Operations",
+      "Calibration / Instrumentation / QA",
+      "Technical Writing / Procedure Development",
+      "Remote Troubleshooting",
+      "Process Optimization"
+    ],
+    "secondary": [
+      "Environmental Simulation Chambers",
+      "High Vacuum Systems",
+      "Glovebox Operations",
+      "IPC 620 Certified",
+      "Radiation Shielding Calculations",
+      "6S Lean",
+      "Project Management"
+    ],
+    "tools": [
+      "MCNP",
+      "Environmental Simulation Chambers",
+      "High Vacuum Systems",
+      "Glovebox",
+      "Electrochemical Devices"
+    ]
+  },
+  "summary": "Technical professional with 14+ years of total work experience, including 8+ years in data analysis, laboratory operations, and engineering support. Extensive hands-on lab experience including electrolytic processes, glovebox work, instrumentation, calibration, data interpretation. No completed bachelor's degree \u2014 several semesters of college education plus 14+ years practical experience. Proven expertise in remote troubleshooting, documentation development, and independent project management.",
+  "target_sectors": [
+    "Semiconductor / chip manufacturing",
+    "National labs (Sandia, Los Alamos, LANL)",
+    "Nuclear / radiation / defense",
+    "R&D / engineering"
+  ],
+  "target_locations": [
+    "Princeton, NJ",
+    "Lacey Township, NJ",
+    "Central NJ",
+    "Remote (anywhere)"
+  ],
+  "work_preference": "Remote strongly preferred; open to hybrid or on-site in NJ area",
+  "deal_breakers": [
+    "Non-remote roles requiring relocation from NM"
+  ],
+  "references": [
+    {
+      "name": "Nathan Hahn",
+      "title": "RD Scientist, Sandia National Laboratories",
+      "phone": "972-693-7977"
+    },
+    {
+      "name": "Jim Goldin",
+      "title": "Engineering Manager, Ducommun",
+      "phone": "417-392-0152"
+    },
+    {
+      "name": "Mark Robertson",
+      "title": "Engineering Manager, EaglePicher Technologies",
+      "phone": "417-396-8613"
+    },
+    {
+      "name": "Maxwell Murphy",
+      "title": "Laboratory Test Manager/Test Engineer, EaglePicher Technologies",
+      "phone": "417-825-6146"
+    }
+  ],
+  "sources": [
+    "Jonathan_E_James_Resume.txt",
+    "jonathan_james_resume_data.csv"
+  ],
+  "profile_created": "2026-09-04",
+  "profile_updated": "2026-09-04",
+  "lab_keywords": [
+    "data gathering",
+    "data collection",
+    "electrolytic processes",
+    "lab work",
+    "glovebox",
+    "lab testing",
+    "instrumentation",
+    "calibration",
+    "data interpretation",
+    "chem lab",
+    "physics lab",
+    "procedure writing",
+    "data auditing",
+    "calibration verification"
+  ],
+  "exclude_medical": true,
+  "priority_targets": [
+    "Princeton Plasma Physics Lab (PPPL)",
+    "DOE national labs"
+  ]
+}

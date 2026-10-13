@@ -1,0 +1,107 @@
+Jonathan E. James
+417-621-8367 | jonathan.e.james@outlook.com
+US Citizen, immediately available, willing to relocate to Hamilton Township/Princeton, NJ
+Last updated: 2026-10-13
+
+==============================================================================
+COVER LETTER
+==============================================================================
+
+Princeton Plasma Physics Laboratory
+Attn: PPPL Engineering
+100 Stellarator Road
+Princeton, NJ 08540
+
+Re: Associate Heating Systems Electrical Technician — Req #2026-21454
+
+Dear Hiring Team,
+
+I am writing to express my strong interest in the Associate Heating Systems Electrical Technician position. I bring 14+ years of hands-on technical experience across laboratory operations, instrumentation, calibration, and electrical systems — including direct work on high-vacuum systems, environmental testing chambers, and process optimization in industrial and research environments. I am confident my background aligns closely with the demands of supporting the Neutral Beam Injection System and the NSTX-U.
+
+My relevant experience includes:
+
+• Laboratory Operations & Instrumentation — Sandia National Labs (Materials Lab Intern): Built electrochemical devices, conducted molar solution calculations, operated glovebox systems, managed technical documentation and data analysis.
+
+• Calibration & QA — Eagle Picher Technologies (Electrical Mechanical Calibrator, QA): Performed calibration cycles and verification for dozens of instruments, hand tools, and complete systems (mechanical, electrical, electrochemical). Maintained calibration records, certificate generation, and drift tracking using historical data; supported audit readiness in a QA-governed environment.
+
+• Electrical & Instrumentation Troubleshooting — Intel / WGNSTAR (Field Service Engineer): Diagnosed equipment malfunctions using data analysis and remote troubleshooting, sustained wafer manufacturing tools, provided technical customer service. Experience with oscilloscopes, multimeters, and fault isolation on complex systems.
+
+• High-Vacuum & Environmental Systems — Eagle Picher (Laboratory Test Technician, Medical & Defense): Performed cycle, capacity, and environmental testing on energy storage devices, organized scheduling and coordinated testing activities. Direct experience with environmental simulation chambers and vacuum testing.
+
+• Radiation & Nuclear Background — Verus Research (Nuclear Engineering Intern): Developed 1D calculations for radiation shielding, conducted and interpreted MCNP simulations. While primarily computational, this work involved radiation safety protocols and nuclear engineering principles relevant to a DOE national laboratory.
+
+• Documentation & Procedure Development — Ducommun Inc. (Engineering Technician): Authored and maintained technical documentation and operating procedures under a controlled QMS. Maintained calibration records and supported revision control — experience highly relevant to PPPL's documentation requirements.
+
+I have completed several semesters of college-level coursework in Nuclear Engineering (University of New Mexico, GPA 3.7) and Electrical Engineering Technology (DeVry University), supplemented by 14+ years of practical, hands-on technical experience. I understand that PPPL values practical competence and technical excellence — qualities I have demonstrated throughout my career in calibration, metrology, and quality assurance.
+
+I am particularly drawn to PPPL because of its mission to develop fusion energy as a clean, safe, and virtually limitless energy source. I am excited by the opportunity to work on the NSTX-U and contribute to a project with genuine long-term impact.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my background can support PPPL's mission.
+
+Sincerely,
+
+Jonathan E. James
+
+==============================================================================
+CURRICLEUM RESUME (combined: cover letter + full resume)
+==============================================================================
+
+PROFESSIONAL SUMMARY
+
+Technical professional with 14+ years of experience in calibration, laboratory operations,
+instrumentation, calibration, and electrical systems across national laboratories and
+regulated manufacturing environments. Proficient with calibration cycles, precision
+measurement, instrument verification, drift tracking, and audit-readiness procedures.
+Experienced with ISO 9000 quality management systems, IPC-620 rework standards, and
+document control. Previously held DOE L clearance (equivalent to DoD Secret); inactive,
+readily reinstatable.
+
+RELEVANT TECHNICAL EXPERIENCE
+
+2024–Present    Field Service Engineer, Lam Research (via WGNSTAR)
+                Rio Rancho, NM
+- Troubleshoot and sustain Intel wafer manufacturing tools via data analysis
+  and remote diagnostic support; maintain work order and technical documentation
+  within a controlled semiconductor manufacturing environment
+- Interface daily with Intel engineering and QA personnel on corrective actions,
+  travel documentation, and specification flow-downs
+
+2020–2021    Electrical & Mechanical Calibrator – QA, Eagle Picher Technologies
+             Joplin, MO
+- Performed calibration cycles and verification for dozens of instruments, hand tools,
+  and complete systems (mechanical, electrical, electrochemical)
+- Maintained calibration records, certificate generation, and drift tracking
+  using historical data; supported audit readiness in a QA-governed environment
+
+2021–2022    Engineering Technician, Ducommun Inc.
+             Joplin, MO
+- Authored and maintained technical documentation and operating procedures
+  supporting project requirements under a controlled QMS
+- Collected and organized data for corrective action items; supported
+  revision control and document version management
+
+2015–2020    Laboratory Test Technician (Medical & Defense), Sandia National Laboratories
+             Albuquerque, NM
+- Conducted cycle, capacity, and environmental testing on energy storage devices
+- Organized scheduling and coordinated testing activities with engineering teams
+- Managed technical documentation and data analysis under controlled procedures
+- Operated glovebox systems, built electrochemical devices, conducted molar
+  solution calculations with precision measurement rigor
+
+EDUCATION
+
+University of New Mexico, Albuquerque, NM
+- Nuclear Engineering coursework (~2 semesters), GPA 3.7
+- No degree conferred — COURSEWORK ONLY
+
+DeVry University, Kansas City, MO
+- Electrical Engineering Technology coursework (1 year)
+- No degree conferred — COURSEWORK ONLY
+
+SKILLS & CERTIFICATIONS
+
+• Technical: Calibration, metrology, electrical troubleshooting, high-vacuum systems,
+  IPC-620 rework standards, ISO 9000 quality systems
+• Documentation: Technical writing, procedure development, document control, revision tracking
+• Security: Former DOE L clearance (Secret equivalent)
+• Languages: English (native)

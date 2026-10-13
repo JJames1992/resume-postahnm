@@ -13,21 +13,22 @@
   ],
   "work_authorization": "US Citizen",
   "available_start": "Immediately",
+  "education_note": "CRITICAL: Jonathan has NO completed degree of any kind. Do not claim a B.S., B.A., or any degree in any document, email, or application. He completed coursework only.",
   "education": [
     {
-      "degree": "Nuclear Engineering, BS (In Process) \u2014 ~2 semesters remaining",
+      "degree": "NONE COMPLETED \u2014 Nuclear Engineering coursework only (~2 semesters of study, no degree earned)",
       "institution": "University of New Mexico",
       "location": "Albuquerque, NM",
-      "graduation": "Spring 2024 \u2192 estimated",
-      "gpa": "3.7",
-      "notes": "No degree completed yet."
+      "graduation": "N/A \u2014 no degree",
+      "gpa": "3.7 (coursework)",
+      "notes": "COURSEWORK ONLY. NO DEGREE. Never state 'B.S. in Nuclear Engineering' or 'in process toward B.S.'"
     },
     {
-      "degree": "Electrical Engineering Technology (1 year completed)",
+      "degree": "NONE COMPLETED \u2014 Electrical Engineering Technology coursework only (1 year of study, no degree earned)",
       "institution": "DeVry University",
       "location": "Kansas City, MO",
-      "graduation": "2019",
-      "notes": "Several semesters, no degree."
+      "graduation": "N/A \u2014 no degree",
+      "notes": "COURSEWORK ONLY. NO DEGREE."
     }
   ],
   "experience": [

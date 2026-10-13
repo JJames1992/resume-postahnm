@@ -1,0 +1,108 @@
+Jonathan E. James
+417-621-8367 | jonathan.e.james@outlook.com
+US Citizen, immediately available, willing to relocate to Hamilton Township/Princeton, NJ
+Last updated: 2026-10-13
+
+==============================================================================
+COVER LETTER
+==============================================================================
+
+Princeton Plasma Physics Laboratory
+Attn: PPPL ES&H Division
+100 Stellarator Road
+Princeton, NJ 08540
+
+Re: Electrical Safety Specialist — Req #2026-22071
+
+Dear Hiring Team,
+
+I am writing to express my strong interest in the Electrical Safety Specialist position (Req #2026-22071) at the Princeton Plasma Physics Laboratory. With 14+ years of hands-on technical experience in electrical systems, calibration, metrology, and quality assurance across national laboratories and regulated manufacturing environments — including direct work with high-voltage systems, precision instrumentation, and safety-critical documentation — I am well-positioned to support PPPL's Electrical Safety Program and its compliance with NFPA 70E, NEC, OSHA, and 10 CFR 851.
+
+My relevant experience includes:
+
+• Electrical & Instrumentation Troubleshooting — Intel / WGNSTAR (Field Service Engineer): Diagnosed equipment malfunctions using data analysis and remote troubleshooting on semiconductor manufacturing tools. Extensive experience with oscilloscopes, multimeters, power quality analyzers, and fault isolation on complex electrical systems operating at industrial voltage levels. Performed lockout/tagout procedures daily in a controlled manufacturing environment.
+
+• Calibration & QA Operations — Eagle Picher Technologies (Electrical/Mechanical Calibrator, QA Department): Performed calibration cycles and verification for instruments, hand tools, and complete electrical/electrochemical systems. Monitored equipment performance drift using historical data and maintained calibration records in a QA-governed environment. This directly aligns with the precision measurement standards and documentation rigor required for electrical safety program compliance.
+
+• Laboratory Operations & Metrology — Sandia National Laboratories (Materials Lab Intern & Laboratory Test Technician): Operated glovebox systems, built electrochemical devices, conducted precision measurements, and managed technical documentation under controlled procedures. Worked in environments requiring strict adherence to safety protocols and regulatory compliance (DOE/NNSA standards).
+
+• Technical Documentation & Procedure Development — Ducommun Inc. (Engineering Technician): Authored and maintained technical documentation and operating procedures under a controlled QMS. Supported revision control and document version management — directly applicable to the documentation requirements of PPPL's Electrical Safety Program and Lockout/Tagout program.
+
+I have completed several semesters of college-level coursework in Nuclear Engineering (University of New Mexico, GPA 3.7) and Electrical Engineering Technology (DeVry University), supplemented by 14+ years of practical, hands-on technical experience in electrical systems, calibration, and quality assurance. I hold a former DOE L clearance (equivalent to DoD Secret), currently inactive but readily reinstatable.
+
+I am particularly drawn to PPPL because of its mission to develop fusion energy as a clean, safe, and virtually limitless energy source, and the critical role electrical safety plays in that mission. I am eager to bring my background in electrical troubleshooting, precision measurement, and regulatory documentation to support the ES&H Division's electrical safety program.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my background can support PPPL's electrical safety mission.
+
+Sincerely,
+
+Jonathan E. James
+
+==============================================================================
+CURRICLEUM RESUME (combined: cover letter + full resume)
+==============================================================================
+
+PROFESSIONAL SUMMARY
+
+Technical professional with 14+ years of hands-on experience in electrical systems troubleshooting,
+calibration, metrology, laboratory operations, and quality assurance across national laboratories
+and regulated manufacturing environments. Proficient with electrical fault isolation, precision
+measurement, instrument verification, drift tracking, and audit-readiness procedures. Experienced
+with ISO 9000 quality management systems, IPC-620 rework standards, and document control.
+Previously held DOE L clearance (equivalent to DoD Secret); inactive, readily reinstatable.
+
+RELEVANT TECHNICAL EXPERIENCE
+
+2024–Present    Field Service Engineer, Lam Research (via WGNSTAR)
+                Rio Rancho, NM
+- Diagnosed equipment malfunctions using data analysis and remote troubleshooting
+  on Intel wafer manufacturing tools; maintained technical documentation
+  within controlled semiconductor manufacturing environments
+- Performed lockout/tagout and electrical safety procedures daily on industrial
+  voltage systems; experience with oscilloscopes, multimeters, power analyzers
+- Interface daily with Intel engineering and QA personnel on corrective actions,
+  safety documentation, and specification flow-downs
+
+2020–2021    Electrical & Mechanical Calibrator – QA, Eagle Picher Technologies
+             Joplin, MO
+- Performed calibration cycles and verification for dozens of instruments, hand tools,
+  and complete systems (mechanical, electrical, electrochemical)
+- Maintained calibration records, certificate generation, and drift tracking
+  using historical data; supported audit readiness in a QA-governed environment
+- Experience with precision measurement tools, measurement instrumentation, and
+  calibration verification standards
+
+2015–2020    Laboratory Test Technician (Medical & Defense), Sandia National Laboratories
+             Albuquerque, NM
+- Conducted cycle, capacity, and environmental testing on energy storage devices
+- Organized scheduling and coordinated testing activities with engineering teams
+- Managed technical documentation and data analysis under controlled procedures
+- Operated glovebox systems, built electrochemical devices, conducted molar
+  solution calculations with precision measurement rigor
+- Worked in DOE/NNSA regulated environment with strict safety and documentation protocols
+
+2021–2022    Engineering Technician, Ducommun Inc.
+             Joplin, MO
+- Authored and maintained technical documentation and operating procedures
+  supporting project requirements under a controlled QMS
+- Collected and organized data for corrective action items; supported revision
+  control and document version management for technical procedures
+
+EDUCATION
+
+University of New Mexico, Albuquerque, NM
+- Nuclear Engineering coursework (~2 semesters), GPA 3.7
+- No degree conferred — COURSEWORK ONLY
+
+DeVry University, Kansas City, MO
+- Electrical Engineering Technology coursework (1 year)
+- No degree conferred — COURSEWORK ONLY
+
+SKILLS & CERTIFICATIONS
+
+• Electrical: Fault isolation, lockout/tagout, oscilloscopes, multimeters, power quality
+  analysis, industrial voltage systems, NFPA 70E awareness
+• Technical: Calibration, metrology, precision measurement, IPC-620 rework standards
+• Documentation: Technical writing, procedure development, document control, revision tracking
+• Security: Former DOE L clearance (Secret equivalent)
+• Languages: English (native)
